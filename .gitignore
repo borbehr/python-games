@@ -1,0 +1,5 @@
+*.iss
+Exorcist_v1.0_Release\src\dist\*
+Exorcist_v1.0_Release\src\build\*
+*.spec
+*.exe
